@@ -7,10 +7,10 @@
     <a href="https://ko-fi.com/meowzhin" target="_blank"><img src="https://img.shields.io/badge/Support_me_on_Ko--fi-salmon?logo=kofi&labelColor=salmon&logoSize=auto&logoColor=white" alt=".NET Core"/></a>
 </p>
 
-
 <p align="center">
 I do stuff here and there, some open, some closed, some useless... yeah. <br />
-I accept money from strangers to fund my dream of not having to work for corps anymore. <br />here a couple of things I work with.
+I accept money from strangers to fund my dream of not having to work for corps anymore. <br />
+Here a couple of things I work with.
 </p >
 
 <p align="center">
