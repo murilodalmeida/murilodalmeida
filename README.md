@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+I'm rebuilding my repos so if you're trying to find something here, it's gone for now. <br />
 I do stuff here and there, some open, some closed, some useless... yeah. <br />
 I accept money from strangers to fund my dream of not having to work for corps anymore. <br />
 Here a couple of things I work with.
