@@ -1,5 +1,5 @@
 <h1 align="center">
-😼 Murilo "meawzin" Almeida 😼
+😼 Murilo "meow" Almeida 😼
 </h1>
 
 <p align="center">
